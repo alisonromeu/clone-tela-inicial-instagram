@@ -126,11 +126,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url(./images/appleLogo.png);
+    background-image: url(../images/appleLogo.png);
 }
 
 .app-download:nth-child(2) {
-    background-image: url(./images/googleStore.png);
+    background-image: url(../images/googleStore.png);
 }
 
 @media (max-width: 1024px) {
